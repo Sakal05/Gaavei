@@ -1,0 +1,6 @@
+[submodule "gaavei-frontend"]
+	path = gaavei-frontend-v2
+	url = git@github.com:Sakal05/Gaavei-Frontend-V2.git
+[submodule "gaavei-contract"]
+	path = gaavei-contract
+	url = git@github.com:Sakal05/Gaavei-Contract.git
